@@ -1,2 +1,2 @@
 # CI-Xenlib
-All Library Xendit for Codeigniter
+Library Xendit for Codeigniter
