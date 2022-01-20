@@ -3,7 +3,6 @@
 /*
  * @package     Xenlib | Xendit Library Codeigniter
  * @author      Diinggo Sirojudin
- * @contact     085748450160
  * @website     https://diinggo.id
  * @copyright   Copyright (c) 2020.
  * @since       Version 1.0.0
